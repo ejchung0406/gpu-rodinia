@@ -6,3 +6,5 @@ data/*
 *.swp
 *.gch
 *.out
+
+bin/linux/cuda/*
