@@ -21,7 +21,7 @@ endif
 
 # make dp=1 compiles the CUDA kernels with double-precision support
 ifeq ($(dp),1)
-	NVCC_FLAGS += --gpu-name sm_13
+	NVCC_FLAGS += --gpu-name sm_75
 endif
 
 
