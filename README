@@ -1,6 +1,12 @@
 Rodinia Benchmark Suite 3.1
 ===========================
 
+go into gpu-rodinia/common/make.config and change the username!
+
+
+
+
+
 0. Modifications
 Please download the dataset from the [original package][data], or my personal [Dropbox][dropbox] if the Virginia's link is down.
 [data]: http://lava.cs.virginia.edu/Rodinia/download_links.htm
