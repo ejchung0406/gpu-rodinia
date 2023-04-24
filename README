@@ -1,7 +1,7 @@
 Rodinia Benchmark Suite 3.1
 ===========================
 
-go into gpu-rodinia/common/make.config and change the username!
+go into gpu-rodinia/common/make.config and fix SDK_DIR= /fast_data/echung67/gpu-rodinia line to own your directory of gpu-rodinia
 
 
 
